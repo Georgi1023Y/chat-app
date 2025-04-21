@@ -4,7 +4,7 @@ const ThreeDPhone = ({ title, subtitle }) => {
   return (
     <div className="hidden lg:flex flex-col items-center justify-center bg-base-200 p-12">
         <model-viewer
-          src="/models/cell_phone.glb"
+          src="dist/models/cell_phone.glb"
           style={{ width: "100%", height: "500px" }}
           camera-controls
           auto-rotate
