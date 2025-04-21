@@ -1,0 +1,14 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "A modern, real-time chat application built with **React**, **Vite**, **MongoDB**, **Express.js**, and **Socket.IO**. This app goes beyond basic messaging — it features 3D visual components, emoji reactions, real-time image sharing, and a polished UI for smooth user interaction.",
+  "main": "index.js",
+  "scripts": {
+    "build":"npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start":"npm run start --prefix backend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
