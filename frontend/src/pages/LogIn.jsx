@@ -149,7 +149,7 @@ const LogIn = () => {
       </div>
 
       <ThreeDPhone
-        title={"Stay Connected!"}
+        title={"Stay "}
         subtitle={
           "Join our community to chat, share, and enjoy all that we offer."
         }
